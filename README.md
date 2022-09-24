@@ -44,6 +44,7 @@
     alt="Typescript"
     width="40"
     height="40"
+    color="#ccc"
   />
   <img
     src="https://github.com/phamthienduy-dev/phamthienduy-dev/blob/main/assets/react.png?raw=true"
